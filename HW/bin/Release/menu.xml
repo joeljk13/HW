@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <shortterm count="5" />
+  <longterm count="-3" />
+  <lastvisit date="3/18/2012 2:51 PM" />
+  <item text="Tools">
+    <item text="New subject" class="new-subject">
+    </item>
+    <item text="Delete empty subjects" class="delete-empty-subjects">
+    </item>
+  </item>
+  <item text="Orchestra">
+    <item text="Add an assignment" class="new-assignment">
+    </item>
+    <item text="Delete this subject" class="delete-subject disabled">
+    </item>
+    <item text="Article">
+      <item text="Edit this assignment" class="edit-assignment"></item>
+      <item text="Delete this assignment" class="delete-assignment"></item>
+    </item>
+    <item text="Theory">
+      <item text="Edit this assignment" class="edit-assignment"></item>
+      <item text="Delete this assignment" class="delete-assignment"></item>
+    </item>
+  </item>
+  <item text="Chemistry">
+    <item text="Add an assignment" class="new-assignment">
+    </item>
+    <item text="Delete this subject" class="delete-subject disabled">
+    </item>
+    <item text="Lab">
+      <item text="Edit this assignment" class="edit-assignment"></item>
+      <item text="Delete this assignment" class="delete-assignment"></item>
+    </item>
+  </item>
+  <item text="History">
+    <item text="Add an assignment" class="new-assignment">
+    </item>
+    <item text="Delete this subject" class="delete-subject disabled">
+    </item>
+    <item text="Essay">
+      <item text="Due In Two Days" class="due-date disabled"></item>
+      <item text="Edit this assignment" class="edit-assignment"></item>
+      <item text="Delete this assignment" class="delete-assignment"></item>
+    </item>
+    <item text="Worksheet">
+      <item text="Edit this assignment" class="edit-assignment"></item>
+      <item text="Delete this assignment" class="delete-assignment"></item>
+    </item>
+  </item>
+  <item text="Other">
+    <item text="Add an assignment" class="new-assignment">
+    </item>
+    <item text="Delete this subject" class="delete-subject disabled">
+    </item>
+    <item text="Get Computer ready">
+      <item text="Due In Two Days" class="due-date disabled"></item>
+      <item text="Edit this assignment" class="edit-assignment"></item>
+      <item text="Delete this assignment" class="delete-assignment"></item>
+    </item>
+  </item>
+</menu>

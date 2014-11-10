@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <shortterm count="0" />
+  <longterm count="0" />
+  <lastvisit date="11/9/2014 3:09 AM" />
+  <item text="Tools">
+    <item text="New subject" class="new-subject">
+    </item>
+    <item text="Delete empty subjects" class="delete-empty-subjects">
+    </item>
+  </item>
+  <item text="Other">
+    <item text="Add an assignment" class="new-assignment">
+    </item>
+    <item text="Delete this subject" class="delete-subject disabled">
+    </item>
+    <item text="Get a calendar">
+      <item text="Edit this assignment" class="edit-assignment"></item>
+      <item text="Delete this assignment" class="delete-assignment"></item>
+    </item>
+    <item text="Research printers">
+      <item text="Edit this assignment" class="edit-assignment"></item>
+      <item text="Delete this assignment" class="delete-assignment"></item>
+    </item>
+    <item text="git config (aliases)">
+      <item text="Edit this assignment" class="edit-assignment"></item>
+      <item text="Delete this assignment" class="delete-assignment"></item>
+    </item>
+    <item text="vim .vimrc">
+      <item text="Edit this assignment" class="edit-assignment"></item>
+      <item text="Delete this assignment" class="delete-assignment"></item>
+    </item>
+  </item>
+  <item text="Comp. Sci.">
+    <item text="Add an assignment" class="new-assignment">
+    </item>
+    <item text="Delete this subject" class="delete-subject disabled">
+    </item>
+    <item text="Readings">
+      <item text="Edit this assignment" class="edit-assignment"></item>
+      <item text="Delete this assignment" class="delete-assignment"></item>
+    </item>
+    <item text="Get ahead on/finish labs">
+      <item text="Edit this assignment" class="edit-assignment"></item>
+      <item text="Delete this assignment" class="delete-assignment"></item>
+    </item>
+  </item>
+  <item text="Math">
+    <item text="Add an assignment" class="new-assignment">
+    </item>
+    <item text="Delete this subject" class="delete-subject disabled">
+    </item>
+    <item text="Read txtbk">
+      <item text="Edit this assignment" class="edit-assignment"></item>
+      <item text="Delete this assignment" class="delete-assignment"></item>
+    </item>
+    <item text="Khan Academy linear algebra">
+      <item text="Edit this assignment" class="edit-assignment"></item>
+      <item text="Delete this assignment" class="delete-assignment"></item>
+    </item>
+    <item text="Learn MTH 172 for potential test">
+      <item text="Edit this assignment" class="edit-assignment"></item>
+      <item text="Delete this assignment" class="delete-assignment"></item>
+    </item>
+  </item>
+  <item text="Linguistics">
+    <item text="Add an assignment" class="new-assignment">
+    </item>
+    <item text="Delete this subject" class="delete-subject disabled">
+    </item>
+    <item text="txtbk readings">
+      <item text="Edit this assignment" class="edit-assignment"></item>
+      <item text="Delete this assignment" class="delete-assignment"></item>
+    </item>
+    <item text="Survey">
+      <item text="Edit this assignment" class="edit-assignment"></item>
+      <item text="Delete this assignment" class="delete-assignment"></item>
+    </item>
+    <item text="iLecture">
+      <item text="Edit this assignment" class="edit-assignment"></item>
+      <item text="Delete this assignment" class="delete-assignment"></item>
+    </item>
+  </item>
+  <item text="Music">
+    <item text="Add an assignment" class="new-assignment">
+    </item>
+    <item text="Delete this subject" class="delete-subject disabled">
+    </item>
+    <item text="Practice cello">
+      <item text="Edit this assignment" class="edit-assignment"></item>
+      <item text="Delete this assignment" class="delete-assignment"></item>
+    </item>
+    <item text="Metronome website UI">
+      <item text="Edit this assignment" class="edit-assignment"></item>
+      <item text="Delete this assignment" class="delete-assignment"></item>
+    </item>
+  </item>
+  <item text="Exercising">
+    <item text="Add an assignment" class="new-assignment">
+    </item>
+    <item text="Delete this subject" class="delete-subject disabled">
+    </item>
+    <item text="Running">
+      <item text="Edit this assignment" class="edit-assignment"></item>
+      <item text="Delete this assignment" class="delete-assignment"></item>
+    </item>
+    <item text="Strength training">
+      <item text="Edit this assignment" class="edit-assignment"></item>
+      <item text="Delete this assignment" class="delete-assignment"></item>
+    </item>
+    <item text="Fitness program">
+      <item text="Edit this assignment" class="edit-assignment"></item>
+      <item text="Delete this assignment" class="delete-assignment"></item>
+    </item>
+    <item text="Workout research">
+      <item text="Edit this assignment" class="edit-assignment"></item>
+      <item text="Delete this assignment" class="delete-assignment"></item>
+    </item>
+  </item>
+</menu>
