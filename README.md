@@ -1,7 +1,7 @@
 HW
 ==
 
-A homework tracker and organizer. For some reason, the code from my old computer won't compile, so I just copied over the actual program, which seems to work. However, the source does not match the executable.
+A homework tracker and organizer. I made this a long time ago, and I didn't know about source control at the time, or even how to write mantainable programs, apparently. The source code for this is a mess.
 
 Versions
 ========
